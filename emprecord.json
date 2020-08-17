@@ -32,12 +32,15 @@
         "department":"Network"
     },
     {
-        "empname":"Sujan Gautam",
-        "department":"Hardware"
+        "empname":"SujanGolu Sharma",
+        "department":"Math"
     },
     {
-        "empname":"Ashok Tamang",
-        "department":"Software"
+        "empname":"Gourav Chouhan",
+        "department":"Shambho"
+    },
+    {
+        "empname":"Golu Sharma",
+        "department":"Math"
     }
-
 ]
