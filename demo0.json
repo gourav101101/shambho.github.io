@@ -1,16 +1,12 @@
-[
-  {
-    "name": "Gourav Chouhan",
-    "id": 1,
-    "number": 9827787080,
-    "ceo": "Shambho",
-    "rating": 3.2
-  },
-  {
-    "name": "Golu",
-    "id": 2,
-    "number": 982546080,
-    "ceo": "Shiv",
-    "rating": 4.2
-  }
-]
+{
+  "gogo":[
+    {
+      "id": "1",
+      "name": "Gourav"
+    }
+    {
+      "id": "2",
+      "name": "Golu"
+    }
+  ]
+}
