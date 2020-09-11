@@ -1,0 +1,19 @@
+{
+  "emp": [
+    {
+      "id": 1,
+      "firt_name": "Gourav",
+      "last_name": "Chouhan"
+    },
+    {
+      "id": 2,
+      "firt_name": "Golu",
+      "last_name": "Sharma"
+    },
+    {
+      "id": 3,
+      "firt_name": "Atharv",
+      "last_name": "Ji"
+    }
+  ]
+}
