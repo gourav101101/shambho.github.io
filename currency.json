@@ -17,16 +17,16 @@
   {
     "title": "Europe",
     "image": "https://1.bp.blogspot.com/-updWp-TOjOg/X2T-PRIu6bI/AAAAAAAAAOA/MxLfOMEESnk-IBKLG0_B0eV2kuDWwUargCLcBGAsYHQ/s198/europe.png",
-    "screen": "EuropeScren"
+    "screen": "EuropeScreen"
   },
   {
     "title": "North America",
     "image": "https://1.bp.blogspot.com/-4lP4xHCuRO0/X2T-PkvU-DI/AAAAAAAAAOE/fsyN1jCMMs4iPWYG4dT_HknZ8ebldcM6gCLcBGAsYHQ/s198/north.png",
-    "screen": "NorthScren"
+    "screen": "NorthScreen"
   },
   {
     "title": "South America",
     "image": "https://1.bp.blogspot.com/-5QoXSqgA4T8/X2T-P9d_YLI/AAAAAAAAAOI/_s3CE--L2SwO_YONFSzDoYm42msG-qp5wCLcBGAsYHQ/s198/south.png",
-    "screen": "SouthScren"
+    "screen": "SouthScreen"
   }
 ]
